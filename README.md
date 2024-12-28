@@ -1,4 +1,4 @@
-## Hi there 👋
+## hello i'm WooSeok Wang 👋
 
 <!--
 **monono2000/monono2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
